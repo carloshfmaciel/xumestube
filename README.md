@@ -3,4 +3,4 @@
 
 ### Do Zero ao Redux
 
-Aguarde ... estamos em fase final...
+Projeto do curso udemy utilizando Redux Thunk
