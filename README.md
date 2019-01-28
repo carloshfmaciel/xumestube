@@ -3,4 +3,4 @@
 
 ### Do Zero ao Redux
 
-Projeto do curso udemy utilizando Redux Thunk
+Projeto do curso udemy - https://www.udemy.com/do-zero-ao-redux/, utilizando Redux Thunk
